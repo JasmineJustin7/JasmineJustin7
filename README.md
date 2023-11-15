@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasmineJustin7
 - 👀 I’m interested in learning more about programming and frontend and backend processes
 - 🌱 I’m currently learning Python, SQL, and R. I am also learning concepts such as cybersecurity and data science
-- 💞️ I’m looking to collaborate on any programs that focus on 
+- 💞️ I’m looking to collaborate on any programs that focus on frontend work such as UI/UX design as well as backend work 
 - 📫 How to reach me: Email --> jasminejustin7@gmail.com
 
 <!---
