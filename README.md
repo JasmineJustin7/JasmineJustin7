@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JasmineJustin7
+- 👋 Hi, I’m Jasmine Justin!
 - 👀 I’m interested in working on more full stack development projects and gaining internship experience
 - Current Project: Dungeons and Dragons database that stores and calculates values using each character's stats 
 - 🌱 Currently deepening my knowledge of Javascript and Python
