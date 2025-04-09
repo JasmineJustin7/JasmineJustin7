@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jasmine Justin!
-- 👀 I’m interested in working on more full stack development projects and gaining internship experience
+- 🌟 Aspiring DevOps Engineer | Passionate about building scalable, efficient systems and growing with mission-driven teams. 
 - Current Project: Hybrid Mobile and Web application for Youth Accessibiltiy of Sports equipment and other resources
-- 🌱 Currently deepening my knowledge of Javascript and Python
-- 💞️ I’m looking to collaborate on any programs that focus on frontend work and backend work 
+- 🌱 Currently deepening my knowledge of React/React Native and Python. I am also studying to earn my AWS and GCP certifications!
 - 📫 How to reach me: Email --> jasminejustin7@gmail.com
+- LinkedIn: www.linkedin.com/in/jasmine-justin-71a803250
 
 <!---
 JasmineJustin7/JasmineJustin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
