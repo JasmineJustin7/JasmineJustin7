@@ -4,7 +4,7 @@
 - 🌱 Currently deepening my knowledge of React/React Native and Python. I am also studying to earn my AWS and GCP certifications!
 - 📫 How to reach me:
 - Email: jasminejustin7@gmail.com
-- LinkedIn: www.linkedin.com/in/jasmine-justin-71a803250
+- LinkedIn: www.linkedin.com/in/jasmine-justin
 
 <!---
 JasmineJustin7/JasmineJustin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
